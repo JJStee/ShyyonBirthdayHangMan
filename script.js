@@ -63,7 +63,7 @@ const hangmanStages = [
   
   const hangmanElement = document.getElementById("hangman");
   
-  const words = ["doodool tala", "gooz", "ankle bone", "a bridge i would like to cross", "the noodle makers undercooked noodle","sucking borutos", "sexy cringe", "uber eats", "chupapi munyanyo", "if you were a fruit you would be a rizzberry"];
+  const words = ["doodool tala", "gooz", "ankle bone", "a bridge i would like to cross", "the noodle makers undercooked noodle","sucking borutos", "sexy cringe", "uber eats", "chupapi munyanyo", "if you were a fruit you would be a rizzberry", "proud minecraft griefer"];
   
   let wordIndex = 0;
   
